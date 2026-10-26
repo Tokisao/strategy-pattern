@@ -1,7 +1,7 @@
 # Strategy Pattern — Navigation / Route Planning
 
-## Name: Zharylgapova Dayana <br>
-## Group: SE-2538
+### Name: Zharylgapova Dayana <br>
+### Group: SE-2538
 
 A small Java project demonstrating the **Strategy** behavioral design pattern
 on a navigation domain.
